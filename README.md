@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ### Hello!! 
 :computer:During business hours i'm a full stack developer, but when the office hour comes to its end ... i'm a artist in 'disguise'! :alien: <br>
 
-You can find me at :smiley::v: :<br>
-[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-ferreira-de-castro-1a7999119/) <br>
-[Instagram](https://www.instagram.com/ojoaotuta/) <br>
+You can find me at :smiley::v: <br>
+:briefcase: [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-ferreira-de-castro-1a7999119/) <br>
+:art: [Instagram](https://www.instagram.com/ojoaotuta/) <br>
