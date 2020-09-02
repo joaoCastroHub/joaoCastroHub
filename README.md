@@ -1,5 +1,5 @@
-### Hi there 👋
-<img align="left" src="https://user-images.githubusercontent.com/30981320/91923190-205e5200-eca6-11ea-94e6-0629438735e7.png" alt="joao's GitHub Octocat" width=300px height=300px/>
+<!-- ### Hi there 👋 -->
+<img align="right" src="https://user-images.githubusercontent.com/30981320/91923190-205e5200-eca6-11ea-94e6-0629438735e7.png" alt="joao's GitHub Octocat" width=300px height=300px/>
 
 <!--
 **joaoCastroHub/joaoCastroHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello!! 
+:computer:During business hours i'm a full stack developer, but when the office hour comes to its end ...<br>
+##### i'm a artist in 'disguise'! :alien: <br>
+
+You can find me at :smiley::v: :<br>
+[Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-ferreira-de-castro-1a7999119/) <br>
+[Instagram](https://www.instagram.com/ojoaotuta/) <br>
