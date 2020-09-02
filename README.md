@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello!! 
-:computer:During business hours i'm a full stack developer, but when the office hour comes to its end ...<br>
+:computer:During business hours i'm a full stack developer, but when the office hour comes to its end ...
 ##### i'm a artist in 'disguise'! :alien: <br>
 
 You can find me at :smiley::v: :<br>
