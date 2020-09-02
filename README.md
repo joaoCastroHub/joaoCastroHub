@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/30981320/91922622-c610c180-eca4-11ea-98c6-7edf82d98d0a.png" alt="joao's GitHub Octocat" width=300px height=300px/>
 
 <!--
 **joaoCastroHub/joaoCastroHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
