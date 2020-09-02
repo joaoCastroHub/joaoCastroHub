@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" src="https://user-images.githubusercontent.com/30981320/91922995-af1e9f00-eca5-11ea-8ad5-c662aa6f40ac.png" alt="joao's GitHub Octocat" width=300px height=300px/>
+<img align="left" src="https://user-images.githubusercontent.com/30981320/91923190-205e5200-eca6-11ea-94e6-0629438735e7.png" alt="joao's GitHub Octocat" width=300px height=300px/>
 
 <!--
 **joaoCastroHub/joaoCastroHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
