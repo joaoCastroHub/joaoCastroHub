@@ -1,24 +1,16 @@
-<!-- ### Hi there 👋 -->
-<img align="right" src="https://user-images.githubusercontent.com/30981320/91923190-205e5200-eca6-11ea-94e6-0629438735e7.png" alt="joao's GitHub Octocat" width=300px height=300px/>
-
-<!--
-**joaoCastroHub/joaoCastroHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hello!! 
 :computer:During business hours i'm a full stack developer, but when the office hour comes to its end ... i'm a artist in 'disguise'! :alien: <br>
 
-You can find me at :smiley::v: <br>
-:briefcase: [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-ferreira-de-castro-1a7999119/) <br>
-:art: [Instagram](https://www.instagram.com/ojoaotuta/) <br>
+##
+<div>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=joaoCastroHub&show_icons=true&theme=dark">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoCastroHub&layout=compact&langs_count=10&theme=dark">
+</div>
+
+##
+<div>
+  <a href="https://www.instagram.com/ojoaotuta/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joaolucasfcastro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="http://www.otuta.com.br/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+</div>
+
