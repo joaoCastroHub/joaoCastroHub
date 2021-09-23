@@ -4,7 +4,7 @@
 ##
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=joaoCastroHub&show_icons=true&theme=dark">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoCastroHub&layout=compact&langs_count=10&theme=dark">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoCastroHub&layout=compact&theme=dark">
 </div>
 
 ##
