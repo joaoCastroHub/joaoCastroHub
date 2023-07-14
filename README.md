@@ -4,7 +4,7 @@ During business hours i'm a full stack developer, but when the office hour comes
 ##
 <div align="center">
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=joaoCastroHub&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoCastroHub&langs_count=8&layout=compact&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoCastroHub&layout=compact&theme=dark">
 </div>  
 <br>
 
